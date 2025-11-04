@@ -48,6 +48,12 @@ h1, h2{
 	
 }
 
+.div_audio_player audio{
+	width: stretch;
+	height: stretch;
+	border-radius: 20px;
+}
+
 .div_video_player video{
 	width: stretch;
 	height: stretch;
